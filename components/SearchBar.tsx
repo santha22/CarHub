@@ -6,6 +6,7 @@ import { SearchManufacturer } from "./";
 
 const SearchBar = () => {
   const [manufacturer, setManufacturer] = useState("");
+  
   const handleSearch = () => {}
 
   return (
